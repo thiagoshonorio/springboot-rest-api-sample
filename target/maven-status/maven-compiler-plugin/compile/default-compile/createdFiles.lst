@@ -1,0 +1,4 @@
+br\com\springboot\curso_springboot_rest_api\Application.class
+br\com\springboot\curso_springboot_rest_api\model\Usuario.class
+br\com\springboot\curso_springboot_rest_api\controllers\UsuarioController.class
+br\com\springboot\curso_springboot_rest_api\repository\UsuarioRepository.class
